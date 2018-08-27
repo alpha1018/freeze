@@ -1,2 +1,2 @@
 hello Kang
-hello Xie
+hello X
