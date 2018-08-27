@@ -1,2 +1,2 @@
-hello Kang
+hello K
 hello X
